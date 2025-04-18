@@ -1,55 +1,65 @@
+# scripts/get_f1_data.py
+
 import requests
 import pandas as pd
+import time
 
-TARGET_DRIVERS = ['Alex Albon', 'Carlos Sainz']
-TARGET_CONSTRUCTOR = 'Williams'
+BASE_URL = "http://ergast.com/api/f1/2023"
+DRIVERS = ["albon", "sainz"]
+TARGET_CONSTRUCTOR = "williams"
 
-def fetch_season_data(season):
-    all_data = []
+all_data = []
 
-    for round_number in range(1, 23):  # F1 usually has ~22 races
-        print(f"📦 Fetching Round {round_number}...")
+for round_num in range(1, 23):  # 22 races
+    print(f"Fetching round {round_num}")
+    
+    # Get race results
+    result_url = f"{BASE_URL}/{round_num}/results.json"
+    res = requests.get(result_url).json()
 
-        url = f"https://ergast.com/api/f1/{season}/{round_number}/results.json"
-        response = requests.get(url)
+    try:
+        race_info = res['MRData']['RaceTable']['Races'][0]
+    except IndexError:
+        continue
 
-        if response.status_code != 200:
-            print(f"❌ Skipping Round {round_number} - No data")
-            continue
+    race_name = race_info['raceName']
+    circuit = race_info['Circuit']['circuitName']
+    date = race_info['date']
+    results = race_info['Results']
 
-        data = response.json()
-        races = data['MRData']['RaceTable']['Races']
+    # Get qualifying results
+    qual_url = f"{BASE_URL}/{round_num}/qualifying.json"
+    qual_res = requests.get(qual_url).json()
+    try:
+        qual_data = qual_res['MRData']['RaceTable']['Races'][0]['QualifyingResults']
+    except (IndexError, KeyError):
+        qual_data = []
 
-        if not races:
-            continue
+    for r in results:
+        driver_id = r['Driver']['driverId']
+        constructor = r['Constructor']['name'].lower()
+        position = int(r['position'])
 
-        race = races[0]
-        race_name = race['raceName']
-        race_date = race['date']
+        if driver_id in DRIVERS or TARGET_CONSTRUCTOR in constructor:
+            name = f"{r['Driver']['givenName']} {r['Driver']['familyName']}"
+            constructor_name = r['Constructor']['name']
+            grid_position = next((int(q['position']) for q in qual_data if q['Driver']['driverId'] == driver_id), None)
 
-        for result in race['Results']:
-            driver = result['Driver']
-            constructor = result['Constructor']['name']
-            driver_name = f"{driver['givenName']} {driver['familyName']}"
+            all_data.append({
+                "round": round_num,
+                "race": race_name,
+                "track": circuit,
+                "date": date,
+                "driver": name,
+                "constructor": constructor_name,
+                "qualifying_position": grid_position,
+                "position": position,
+                "points": float(r['points'])
+            })
 
-            if driver_name in TARGET_DRIVERS or constructor == TARGET_CONSTRUCTOR:
-                all_data.append({
-                    'season': season,
-                    'round': round_number,
-                    'race': race_name,
-                    'date': race_date,
-                    'driver': driver_name,
-                    'constructor': constructor,
-                    'position': int(result['position']),
-                    'points': float(result['points']),
-                    'status': result['status']
-                })
+    time.sleep(1)  # be kind to the API
 
-    return pd.DataFrame(all_data)
-
-# Fetch 2023 data
-df = fetch_season_data(2023)
-
-# Save to CSV
-df.to_csv('f1_filtered_results_2023.csv', index=False)
-print("✅ Data saved to f1_filtered_results_2023.csv")
+# Save as DataFrame
+df = pd.DataFrame(all_data)
+df.to_csv("data/f1_enriched_results_2023.csv", index=False)
+print("✅ Data saved to data/f1_enriched_results_2023.csv")
