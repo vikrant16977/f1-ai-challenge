@@ -61,5 +61,5 @@ for round_num in range(1, 23):  # 22 races
 
 # Save as DataFrame
 df = pd.DataFrame(all_data)
-df.to_csv("data/f1_enriched_results_2023.csv", index=False)
+df.to_csv("../data/f1_enriched_results_2023.csv", index=False)
 print("✅ Data saved to data/f1_enriched_results_2023.csv")
