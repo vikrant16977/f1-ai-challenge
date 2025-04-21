@@ -9,7 +9,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
 # Load enriched data
-df = pd.read_csv("data/f1_enriched_results_2023.csv")
+df = pd.read_csv("../data/f1_enriched_results_2023.csv")
 
 # Drop rows with missing values (e.g., missing qualifying data)
 df = df.dropna(subset=["qualifying_position"])
