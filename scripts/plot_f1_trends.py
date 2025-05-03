@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-df = pd.read_csv('../data/f1_filtered_results_2023.csv')
+df = pd.read_csv('../data/f1_enriched_results_2015_2025.csv')
 
 # Convert 'date' to datetime for sorting
 df['date'] = pd.to_datetime(df['date'])
