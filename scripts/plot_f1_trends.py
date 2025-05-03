@@ -13,7 +13,7 @@ df = df.sort_values(by='round')
 
 # 🎯 1. Driver Positions over Time
 plt.figure(figsize=(12, 6))
-sns.lineplot(data=df[df['driver'].isin(['Alex Albon', 'Carlos Sainz'])],
+sns.lineplot(data=df[df['driver'].isin(['Alexander Albon', 'Carlos Sainz'])],
              x='round', y='position', hue='driver', marker='o')
 
 plt.gca().invert_yaxis()  # 1st place is highest
