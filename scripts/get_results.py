@@ -8,7 +8,7 @@ TARGET_CONSTRUCTOR = "williams"
 
 all_data = []
 
-for year in range(2015, 2026):  # 2015 to 2025 inclusive
+for year in range(2020, 2026):  # 2020 to 2025 inclusive
     print(f"\n📅 Processing year {year}")
     for round_num in range(1, 23):  # Up to 22 races (some years may have fewer)
         print(f"Fetching round {round_num} of {year}")
@@ -66,5 +66,5 @@ df = pd.DataFrame(all_data)
 os.makedirs("../data", exist_ok=True)
 
 # Save the data
-df.to_csv("../data/f1_enriched_results_2015_2025.csv", index=False)
-print("✅ Data saved to data/f1_enriched_results_2015_2025.csv")
+df.to_csv("../data/f1_enriched_results_2020_2025.csv", index=False)
+print("✅ Data saved to ../data/f1_enriched_results_2020_2025.csv")
