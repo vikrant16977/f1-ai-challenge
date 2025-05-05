@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-df = pd.read_csv('../data/f1_filtered_results_2023.csv')
+df = pd.read_csv('../data/f1_enriched_results_2015_2025.csv')
 
 # Convert 'date' to datetime for sorting
 df['date'] = pd.to_datetime(df['date'])
@@ -13,7 +13,7 @@ df = df.sort_values(by='round')
 
 # 🎯 1. Driver Positions over Time
 plt.figure(figsize=(12, 6))
-sns.lineplot(data=df[df['driver'].isin(['Alex Albon', 'Carlos Sainz'])],
+sns.lineplot(data=df[df['driver'].isin(['Alexander Albon', 'Carlos Sainz'])],
              x='round', y='position', hue='driver', marker='o')
 
 plt.gca().invert_yaxis()  # 1st place is highest
