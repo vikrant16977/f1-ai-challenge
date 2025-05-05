@@ -1,0 +1,331 @@
+year,round,race,track,date,driver,constructor,qualifying_position,position,points
+2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,Carlos Sainz,McLaren,8,5,10.0
+2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,Nicholas Latifi,Williams,20,11,0.0
+2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,Alexander Albon,Red Bull,5,13,0.0
+2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,George Russell,Williams,17,15,0.0
+2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,Alexander Albon,Red Bull,7,4,12.0
+2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,Carlos Sainz,McLaren,3,9,3.0
+2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,George Russell,Williams,12,16,0.0
+2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,Nicholas Latifi,Williams,18,17,0.0
+2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,Alexander Albon,Red Bull,13,5,10.0
+2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,Carlos Sainz,McLaren,9,9,2.0
+2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,George Russell,Williams,12,18,0.0
+2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,Nicholas Latifi,Williams,15,19,0.0
+2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,Alexander Albon,Red Bull,12,8,4.0
+2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,George Russell,Williams,15,12,0.0
+2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,Carlos Sainz,McLaren,7,13,0.0
+2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,Nicholas Latifi,Williams,20,15,0.0
+2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,Alexander Albon,Red Bull,9,5,10.0
+2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,Carlos Sainz,McLaren,13,13,0.0
+2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,George Russell,Williams,15,18,0.0
+2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,Nicholas Latifi,Williams,18,19,0.0
+2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,Carlos Sainz,McLaren,7,6,8.0
+2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,Alexander Albon,Red Bull,6,8,4.0
+2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,George Russell,Williams,18,17,0.0
+2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,Nicholas Latifi,Williams,19,18,0.0
+2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,Alexander Albon,Red Bull,5,6,8.0
+2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,Nicholas Latifi,Williams,19,16,0.0
+2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,George Russell,Williams,15,19,0.0
+2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,Carlos Sainz,McLaren,7,20,0.0
+2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,Carlos Sainz,McLaren,3,2,18.0
+2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,Nicholas Latifi,Williams,20,11,0.0
+2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,George Russell,Williams,19,14,0.0
+2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,Alexander Albon,Red Bull,9,15,0.0
+2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,Alexander Albon,Red Bull,4,3,15.0
+2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,George Russell,Williams,18,11,0.0
+2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,Nicholas Latifi,Williams,19,15,0.0
+2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,Carlos Sainz,McLaren,9,18,0.0
+2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,Alexander Albon,Red Bull,10,10,1.0
+2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,Nicholas Latifi,Williams,19,16,0.0
+2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,George Russell,Williams,14,18,0.0
+2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,Carlos Sainz,McLaren,6,19,0.0
+2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,Carlos Sainz,McLaren,10,5,10.0
+2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,Nicholas Latifi,Williams,18,14,0.0
+2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,Alexander Albon,Red Bull,5,17,0.0
+2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,George Russell,Williams,17,20,0.0
+2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,Carlos Sainz,McLaren,7,6,8.0
+2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,Alexander Albon,Red Bull,6,12,0.0
+2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,George Russell,Williams,14,14,0.0
+2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,Nicholas Latifi,Williams,20,18,0.0
+2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,Carlos Sainz,McLaren,10,7,6.0
+2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,Nicholas Latifi,Williams,19,11,0.0
+2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,Alexander Albon,Red Bull,6,15,0.0
+2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,George Russell,Williams,13,16,0.0
+2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,Carlos Sainz,McLaren,13,5,10.0
+2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,Alexander Albon,Red Bull,4,7,6.0
+2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,George Russell,Williams,18,16,0.0
+2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,Nicholas Latifi,Williams,20,19,0.0
+2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,Alexander Albon,Red Bull,4,3,15.0
+2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,Carlos Sainz,McLaren,15,5,10.0
+2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,George Russell,Williams,14,12,0.0
+2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,Nicholas Latifi,Williams,20,14,0.0
+2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,Carlos Sainz,McLaren,8,4,12.0
+2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,Alexander Albon,Red Bull,12,6,8.0
+2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,Jack Aitken,Williams,18,16,0.0
+2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,Nicholas Latifi,Williams,17,18,0.0
+2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,Alexander Albon,Red Bull,5,4,12.0
+2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,Carlos Sainz,McLaren,6,6,8.0
+2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,George Russell,Williams,18,15,0.0
+2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,Nicholas Latifi,Williams,20,17,0.0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,Carlos Sainz,Ferrari,8,8,4.0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,George Russell,Williams,15,14,0.0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,Nicholas Latifi,Williams,17,18,0.0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,Carlos Sainz,Ferrari,11,5,10.0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,George Russell,Williams,12,19,0.0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,Nicholas Latifi,Williams,14,20,0.0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,Carlos Sainz,Ferrari,5,11,0.0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,George Russell,Williams,11,16,0.0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,Nicholas Latifi,Williams,18,18,0.0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,Carlos Sainz,Ferrari,6,7,6.0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,George Russell,Williams,15,14,0.0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,Nicholas Latifi,Williams,19,16,0.0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,Carlos Sainz,Ferrari,4,2,18.0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,George Russell,Williams,15,14,0.0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,Nicholas Latifi,Williams,18,15,0.0
+2021,6,Azerbaijan Grand Prix,Baku City Circuit,2021-06-06,Carlos Sainz,Ferrari,5,8,4.0
+2021,6,Azerbaijan Grand Prix,Baku City Circuit,2021-06-06,Nicholas Latifi,Williams,16,16,0.0
+2021,6,Azerbaijan Grand Prix,Baku City Circuit,2021-06-06,George Russell,Williams,15,17,0.0
+2021,7,French Grand Prix,Circuit Paul Ricard,2021-06-20,Carlos Sainz,Ferrari,5,11,0.0
+2021,7,French Grand Prix,Circuit Paul Ricard,2021-06-20,George Russell,Williams,14,12,0.0
+2021,7,French Grand Prix,Circuit Paul Ricard,2021-06-20,Nicholas Latifi,Williams,16,18,0.0
+2021,8,Styrian Grand Prix,Red Bull Ring,2021-06-27,Carlos Sainz,Ferrari,12,6,8.0
+2021,8,Styrian Grand Prix,Red Bull Ring,2021-06-27,Nicholas Latifi,Williams,16,17,0.0
+2021,8,Styrian Grand Prix,Red Bull Ring,2021-06-27,George Russell,Williams,11,19,0.0
+2021,9,Austrian Grand Prix,Red Bull Ring,2021-07-04,Carlos Sainz,Ferrari,11,5,10.0
+2021,9,Austrian Grand Prix,Red Bull Ring,2021-07-04,George Russell,Williams,9,11,0.0
+2021,9,Austrian Grand Prix,Red Bull Ring,2021-07-04,Nicholas Latifi,Williams,18,16,0.0
+2021,10,British Grand Prix,Silverstone Circuit,2021-07-18,Carlos Sainz,Ferrari,9,6,8.0
+2021,10,British Grand Prix,Silverstone Circuit,2021-07-18,George Russell,Williams,8,12,0.0
+2021,10,British Grand Prix,Silverstone Circuit,2021-07-18,Nicholas Latifi,Williams,18,14,0.0
+2021,11,Hungarian Grand Prix,Hungaroring,2021-08-01,Carlos Sainz,Ferrari,15,3,15.0
+2021,11,Hungarian Grand Prix,Hungaroring,2021-08-01,Nicholas Latifi,Williams,18,7,6.0
+2021,11,Hungarian Grand Prix,Hungaroring,2021-08-01,George Russell,Williams,17,8,4.0
+2021,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2021-08-29,George Russell,Williams,2,2,9.0
+2021,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2021-08-29,Nicholas Latifi,Williams,12,9,1.0
+2021,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2021-08-29,Carlos Sainz,Ferrari,13,10,0.5
+2021,13,Dutch Grand Prix,Circuit Park Zandvoort,2021-09-05,Carlos Sainz,Ferrari,6,7,6.0
+2021,13,Dutch Grand Prix,Circuit Park Zandvoort,2021-09-05,Nicholas Latifi,Williams,14,16,0.0
+2021,13,Dutch Grand Prix,Circuit Park Zandvoort,2021-09-05,George Russell,Williams,11,17,0.0
+2021,14,Italian Grand Prix,Autodromo Nazionale di Monza,2021-09-12,Carlos Sainz,Ferrari,7,6,8.0
+2021,14,Italian Grand Prix,Autodromo Nazionale di Monza,2021-09-12,George Russell,Williams,15,9,2.0
+2021,14,Italian Grand Prix,Autodromo Nazionale di Monza,2021-09-12,Nicholas Latifi,Williams,16,11,0.0
+2021,15,Russian Grand Prix,Sochi Autodrom,2021-09-26,Carlos Sainz,Ferrari,2,3,15.0
+2021,15,Russian Grand Prix,Sochi Autodrom,2021-09-26,George Russell,Williams,3,10,1.0
+2021,15,Russian Grand Prix,Sochi Autodrom,2021-09-26,Nicholas Latifi,Williams,14,19,0.0
+2021,16,Turkish Grand Prix,Istanbul Park,2021-10-10,Carlos Sainz,Ferrari,15,8,4.0
+2021,16,Turkish Grand Prix,Istanbul Park,2021-10-10,George Russell,Williams,13,15,0.0
+2021,16,Turkish Grand Prix,Istanbul Park,2021-10-10,Nicholas Latifi,Williams,17,17,0.0
+2021,17,United States Grand Prix,Circuit of the Americas,2021-10-24,Carlos Sainz,Ferrari,6,7,6.0
+2021,17,United States Grand Prix,Circuit of the Americas,2021-10-24,George Russell,Williams,15,14,0.0
+2021,17,United States Grand Prix,Circuit of the Americas,2021-10-24,Nicholas Latifi,Williams,17,15,0.0
+2021,18,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021-11-07,Carlos Sainz,Ferrari,6,6,8.0
+2021,18,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021-11-07,George Russell,Williams,13,16,0.0
+2021,18,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021-11-07,Nicholas Latifi,Williams,17,17,0.0
+2021,19,São Paulo Grand Prix,Autódromo José Carlos Pace,2021-11-14,Carlos Sainz,Ferrari,6,6,8.0
+2021,19,São Paulo Grand Prix,Autódromo José Carlos Pace,2021-11-14,George Russell,Williams,18,13,0.0
+2021,19,São Paulo Grand Prix,Autódromo José Carlos Pace,2021-11-14,Nicholas Latifi,Williams,17,16,0.0
+2021,20,Qatar Grand Prix,Losail International Circuit,2021-11-21,Carlos Sainz,Ferrari,7,7,6.0
+2021,20,Qatar Grand Prix,Losail International Circuit,2021-11-21,George Russell,Williams,15,17,0.0
+2021,20,Qatar Grand Prix,Losail International Circuit,2021-11-21,Nicholas Latifi,Williams,17,19,0.0
+2021,21,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021-12-05,Carlos Sainz,Ferrari,15,8,4.0
+2021,21,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021-12-05,Nicholas Latifi,Williams,16,12,0.0
+2021,21,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021-12-05,George Russell,Williams,14,19,0.0
+2021,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2021-12-12,Carlos Sainz,Ferrari,5,3,15.0
+2021,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2021-12-12,Nicholas Latifi,Williams,16,16,0.0
+2021,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2021-12-12,George Russell,Williams,17,18,0.0
+2022,1,Bahrain Grand Prix,Bahrain International Circuit,2022-03-20,Carlos Sainz,Ferrari,3,2,18.0
+2022,1,Bahrain Grand Prix,Bahrain International Circuit,2022-03-20,Alexander Albon,Williams,14,13,0.0
+2022,1,Bahrain Grand Prix,Bahrain International Circuit,2022-03-20,Nicholas Latifi,Williams,20,16,0.0
+2022,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2022-03-27,Carlos Sainz,Ferrari,3,3,15.0
+2022,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2022-03-27,Alexander Albon,Williams,17,14,0.0
+2022,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2022-03-27,Nicholas Latifi,Williams,19,18,0.0
+2022,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2022-04-10,Alexander Albon,Williams,16,10,1.0
+2022,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2022-04-10,Nicholas Latifi,Williams,19,16,0.0
+2022,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2022-04-10,Carlos Sainz,Ferrari,9,20,0.0
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,Alexander Albon,Williams,20,11,0.0
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,Nicholas Latifi,Williams,18,16,0.0
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,Carlos Sainz,Ferrari,10,20,0.0
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Carlos Sainz,Ferrari,2,3,15.0
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Alexander Albon,Williams,18,9,2.0
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Nicholas Latifi,Williams,19,14,0.0
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Carlos Sainz,Ferrari,3,4,12.0
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Nicholas Latifi,Williams,20,16,0.0
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Alexander Albon,Williams,19,18,0.0
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Carlos Sainz,Ferrari,2,2,18.0
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Nicholas Latifi,Williams,19,15,0.0
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Alexander Albon,Williams,16,18,0.0
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Alexander Albon,Williams,17,12,0.0
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Nicholas Latifi,Williams,18,15,0.0
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Carlos Sainz,Ferrari,4,20,0.0
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Carlos Sainz,Ferrari,3,2,19.0
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Alexander Albon,Williams,12,13,0.0
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Nicholas Latifi,Williams,19,16,0.0
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Carlos Sainz,Ferrari,1,1,25.0
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Nicholas Latifi,Williams,10,12,0.0
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Alexander Albon,Williams,16,20,0.0
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Alexander Albon,Williams,11,12,0.0
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Carlos Sainz,Ferrari,3,18,0.0
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Nicholas Latifi,Williams,19,19,0.0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Carlos Sainz,Ferrari,9,5,11.0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Alexander Albon,Williams,15,13,0.0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Nicholas Latifi,Williams,20,17,0.0
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Carlos Sainz,Ferrari,2,4,12.0
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Alexander Albon,Williams,17,17,0.0
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Nicholas Latifi,Williams,20,18,0.0
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Carlos Sainz,Ferrari,2,3,15.0
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Alexander Albon,Williams,9,10,1.0
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Nicholas Latifi,Williams,17,18,0.0
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Carlos Sainz,Ferrari,3,8,4.0
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Alexander Albon,Williams,15,12,0.0
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Nicholas Latifi,Williams,20,18,0.0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Carlos Sainz,Ferrari,3,4,12.0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Nyck de Vries,Williams,13,9,2.0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Nicholas Latifi,Williams,16,15,0.0
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Carlos Sainz,Ferrari,4,3,15.0
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Alexander Albon,Williams,19,17,0.0
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Nicholas Latifi,Williams,20,19,0.0
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Nicholas Latifi,Williams,20,9,2.0
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Carlos Sainz,Ferrari,3,19,0.0
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Alexander Albon,Williams,16,20,0.0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Alexander Albon,Williams,11,13,0.0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Nicholas Latifi,Williams,20,17,0.0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Carlos Sainz,Ferrari,1,20,0.0
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Carlos Sainz,Ferrari,5,5,10.0
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Alexander Albon,Williams,19,12,0.0
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Nicholas Latifi,Williams,20,18,0.0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Carlos Sainz,Ferrari,5,3,15.0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Alexander Albon,Williams,11,15,0.0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Nicholas Latifi,Williams,16,16,0.0
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Carlos Sainz,Ferrari,4,4,12.0
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Alexander Albon,Williams,19,13,0.0
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Nicholas Latifi,Williams,20,19,0.0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Carlos Sainz,Ferrari,4,4,12.0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Alexander Albon,Williams,15,10,1.0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Logan Sargeant,Williams,16,12,0.0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Carlos Sainz,Ferrari,5,6,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Logan Sargeant,Williams,20,16,0.0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Alexander Albon,Williams,17,19,0.0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Carlos Sainz,Ferrari,5,12,0.0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Logan Sargeant,Williams,18,16,0.0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Alexander Albon,Williams,8,19,0.0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Carlos Sainz,Ferrari,4,5,10.0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Alexander Albon,Williams,13,12,0.0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Logan Sargeant,Williams,15,16,0.0
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Carlos Sainz,Ferrari,3,5,10.0
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Alexander Albon,Williams,11,14,0.0
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Logan Sargeant,Williams,20,20,0.0
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Carlos Sainz,Ferrari,5,8,4.0
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Alexander Albon,Williams,13,14,0.0
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Logan Sargeant,Williams,16,18,0.0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Carlos Sainz,Ferrari,2,5,10.0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Alexander Albon,Williams,18,16,0.0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Logan Sargeant,Williams,20,20,0.0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Carlos Sainz,Ferrari,8,5,10.0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Alexander Albon,Williams,10,7,6.0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Logan Sargeant,Williams,19,20,0.0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Carlos Sainz,Ferrari,3,6,8.0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Alexander Albon,Williams,10,11,0.0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Logan Sargeant,Williams,18,13,0.0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Alexander Albon,Williams,8,8,4.0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Carlos Sainz,Ferrari,5,10,1.0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Logan Sargeant,Williams,14,11,0.0
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Carlos Sainz,Ferrari,11,8,4.0
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Alexander Albon,Williams,16,11,0.0
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Logan Sargeant,Williams,20,18,0.0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Alexander Albon,Williams,16,14,0.0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Logan Sargeant,Williams,18,17,0.0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Carlos Sainz,Ferrari,5,19,0.0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Carlos Sainz,Ferrari,6,5,10.0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Alexander Albon,Williams,4,8,4.0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Logan Sargeant,Williams,10,20,0.0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Carlos Sainz,Ferrari,1,3,15.0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Alexander Albon,Williams,6,7,6.0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Logan Sargeant,Williams,15,13,0.0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Carlos Sainz,Ferrari,1,1,25.0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Alexander Albon,Williams,14,11,0.0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Logan Sargeant,Williams,18,14,0.0
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Carlos Sainz,Ferrari,6,6,8.0
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Alexander Albon,Williams,13,16,0.0
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Logan Sargeant,Williams,20,17,0.0
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Alexander Albon,Williams,14,13,0.0
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Logan Sargeant,Williams,16,18,0.0
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Carlos Sainz,Ferrari,12,20,0.0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Carlos Sainz,Ferrari,4,3,15.0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Alexander Albon,Williams,18,9,2.0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Logan Sargeant,Williams,20,10,1.0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Carlos Sainz,Ferrari,2,4,12.0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Alexander Albon,Williams,14,9,2.0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Logan Sargeant,Williams,20,16,0.0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Carlos Sainz,Ferrari,8,6,8.0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Logan Sargeant,Williams,19,11,0.0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Alexander Albon,Williams,15,19,0.0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Carlos Sainz,Ferrari,2,6,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Alexander Albon,Williams,6,12,0.0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Logan Sargeant,Williams,7,16,0.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Alexander Albon,Williams,14,14,0.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Logan Sargeant,Williams,20,16,0.0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Carlos Sainz,Ferrari,16,18,0.0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Carlos Sainz,Ferrari,4,3,15.0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Alexander Albon,Williams,13,15,0.0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Logan Sargeant,Williams,18,20,0.0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Alexander Albon,Williams,12,11,0.0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Logan Sargeant,Williams,19,14,0.0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Carlos Sainz,Ferrari,2,1,25.0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Alexander Albon,Williams,12,11,0.0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Carlos Sainz,Ferrari,4,3,15.0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Logan Sargeant,Williams,19,17,0.0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Alexander Albon,Williams,14,20,0.0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Carlos Sainz,Ferrari,7,5,10.0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Alexander Albon,Williams,14,12,0.0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Logan Sargeant,Williams,20,17,0.0
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Carlos Sainz,Ferrari,3,5,10.0
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Alexander Albon,Williams,14,18,0.0
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Logan Sargeant,Williams,17,20,0.0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Carlos Sainz,Ferrari,5,5,10.0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Logan Sargeant,Williams,20,17,0.0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Alexander Albon,Williams,14,20,0.0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Carlos Sainz,Ferrari,3,3,15.0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Alexander Albon,Williams,9,9,2.0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Logan Sargeant,Williams,17,15,0.0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Carlos Sainz,Ferrari,12,16,0.0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Alexander Albon,Williams,10,17,0.0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Logan Sargeant,Williams,13,20,0.0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Carlos Sainz,Ferrari,6,6,8.0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Alexander Albon,Williams,19,18,0.0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Logan Sargeant,Williams,20,20,0.0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Carlos Sainz,Ferrari,4,3,15.0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Alexander Albon,Williams,16,15,0.0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Logan Sargeant,Williams,19,19,0.0
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Carlos Sainz,Ferrari,7,5,11.0
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Alexander Albon,Williams,9,9,2.0
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Logan Sargeant,Williams,12,11,0.0
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Carlos Sainz,Ferrari,4,6,8.0
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Alexander Albon,Williams,13,14,0.0
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Logan Sargeant,Williams,14,17,0.0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Carlos Sainz,Ferrari,8,6,8.0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Alexander Albon,Williams,11,12,0.0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Logan Sargeant,Williams,19,17,0.0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Carlos Sainz,Ferrari,10,5,10.0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Alexander Albon,Williams,19,14,0.0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Logan Sargeant,Williams,20,16,0.0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Carlos Sainz,Ferrari,5,4,12.0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Alexander Albon,Williams,9,9,2.0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Franco Colapinto,Williams,18,12,0.0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Alexander Albon,Williams,10,7,6.0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Franco Colapinto,Williams,9,8,4.0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Carlos Sainz,Ferrari,3,18,0.0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Carlos Sainz,Ferrari,10,7,6.0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Franco Colapinto,Williams,12,11,0.0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Alexander Albon,Williams,11,20,0.0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Carlos Sainz,Ferrari,3,2,18.0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Franco Colapinto,Williams,17,10,1.0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Alexander Albon,Williams,16,16,0.0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Carlos Sainz,Ferrari,1,1,25.0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Franco Colapinto,Williams,16,12,0.0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Alexander Albon,Williams,9,19,0.0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Carlos Sainz,Ferrari,14,16,0.0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Franco Colapinto,Williams,18,17,0.0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Alexander Albon,Williams,7,18,0.0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Carlos Sainz,Ferrari,2,3,15.0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Franco Colapinto,Williams,14,14,0.0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Alexander Albon,Williams,18,19,0.0
