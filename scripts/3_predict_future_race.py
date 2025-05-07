@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load("models/random_forest_model.pkl")
+model = joblib.load("../models/random_forest_model.pkl")
 
 # Mock qualifying results for the Emilia-Romagna race
 # You'll need to update these with real values later
@@ -10,14 +10,14 @@ race_data = [
     {
         "round": 7,  # Example round number
         "track": "Emilia-Romagna",
-        "qualifying_position": 3,
+        "qualifying_position": 6,
         "constructor": "Williams",
         "driver": "Alex Albon"
     },
     {
         "round": 7,
         "track": "Emilia-Romagna",
-        "qualifying_position": 6,
+        "qualifying_position": 9,
         "constructor": "Ferrari",
         "driver": "Carlos Sainz"
     }
