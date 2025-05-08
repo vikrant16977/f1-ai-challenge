@@ -8,17 +8,17 @@ model = joblib.load("../models/random_forest_model.pkl")
 # You'll need to update these with real values later
 race_data = [
     {
-        "round": 7,  # Example round number
-        "track": "Emilia-Romagna",
-        "qualifying_position": 6,
+        "round": 7,
+        "track": "Imola",
+        "qualifying_position": 13,  # Realistic for Albon
         "constructor": "Williams",
         "driver": "Alex Albon"
     },
     {
         "round": 7,
-        "track": "Emilia-Romagna",
-        "qualifying_position": 9,
-        "constructor": "Ferrari",
+        "track": "Imola",
+        "qualifying_position": 7,   # Strong qualifying for Sainz
+        "constructor": "Williams",
         "driver": "Carlos Sainz"
     }
 ]
