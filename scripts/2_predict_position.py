@@ -9,7 +9,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
 # === Load & clean data ===
-df = pd.read_csv("../data/f1_enriched_results_2020_2025.csv")
+df = pd.read_csv("./data/f1_enriched_results_monaco_2025.csv")
 df = df.dropna(subset=["qualifying_position"])
 
 # === Features & target ===
@@ -38,7 +38,7 @@ model = Pipeline([
 ])
 
 # === Train/test split & training ===
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 model.fit(X_train, y_train)
 
 # === Evaluate ===
@@ -57,5 +57,5 @@ for i in range(len(df)):
 
 # === Save model to file ===
 os.makedirs("../models", exist_ok=True)
-joblib.dump(model, "../models/random_forest_model.pkl")
-print("\n✅ Model saved to models/random_forest_model.pkl")
+joblib.dump(model, "./models/random_forest_model_monaco.pkl")
+print("\n✅ Model saved to models/random_forest_model_monaco.pkl")

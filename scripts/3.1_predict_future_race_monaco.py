@@ -2,21 +2,21 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load("../models/random_forest_model.pkl")
+model = joblib.load("./models/random_forest_model_monaco.pkl")
 
-
+# Mock qualifying results for the Monaco race (Round 8)
 race_data = [
     {
-        "round": 7,
-        "track": "Imola",
-        "qualifying_position": 13,  # Realistic for Albon
+        "round": 8,
+        "track": "Monaco",
+        "qualifying_position": 5,  # Albon has been strong lately
         "constructor": "Williams",
-        "driver": "Alex Albon"
+        "driver": "Alexander Albon"
     },
     {
-        "round": 7,
-        "track": "Imola",
-        "qualifying_position": 7,   # Strong qualifying for Sainz
+        "round": 8,
+        "track": "Monaco",
+        "qualifying_position": 9,  # Reasonable for Sainz in current form
         "constructor": "Williams",
         "driver": "Carlos Sainz"
     }
