@@ -9,7 +9,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
 # === Load & clean data ===
-df = pd.read_csv("./data/f1_enriched_results_monaco_2025.csv")
+df = pd.read_csv("./data/f1_enriched_results_barcelona_2025.csv")
 df = df.dropna(subset=["qualifying_position"])
 
 # === Features & target ===
@@ -57,5 +57,5 @@ for i in range(len(df)):
 
 # === Save model to file ===
 os.makedirs("../models", exist_ok=True)
-joblib.dump(model, "./models/random_forest_model_monaco.pkl")
-print("\n✅ Model saved to models/random_forest_model_monaco.pkl")
+joblib.dump(model, "./models/random_forest_model_barcelona.pkl")
+print("\n✅ Model saved to models/random_forest_model_barcelona.pkl")

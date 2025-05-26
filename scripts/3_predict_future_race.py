@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load("../models/random_forest_model.pkl")
+model = joblib.load("./models/random_forest_model.pkl")
 
 
 race_data = [
